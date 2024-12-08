@@ -14,7 +14,7 @@ This project aims to identify key factors driving employee attrition using an HR
 ---
 
 ## 📂 Dataset
-- **Source**: [Kaggle HR Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/patelprashant/employee-attrition/data))
+- **Source**: [Kaggle HR Dataset](https://www.kaggle.com/datasets/patelprashant/employee-attrition/data)
 - **Size**: 1,470 records and 35 variables
 - **Key Attributes**:
   - **Attrition**: Indicates if an employee stayed or left.
