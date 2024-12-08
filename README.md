@@ -39,16 +39,16 @@ This project aims to identify key factors driving employee attrition using an HR
 
 ### R Visualizations
 - **Attrition by Department**:
-  ![Attrition by Department](R Graphs/Department_attrition_in_R.png)
-- **Impact of Overtime**:
-  ![Overtime Impact](path/to/r-visualization2.png)
+  ![Attrition by Department](R%20Graphs/Department_attrition_in_R.png)
+- **Attrition by Percent Salary Hike**:
+  ![Overtime Impact](R%20Graphs/SalaryHike_attrition_in_R.png)
 
 ### Tableau Dashboard
 - **Interactive Dashboard**:
   Explore the dashboard to view department-wise attrition, salary hike trends, and satisfaction scores.  
-  **[Tableau Public Dashboard Link](Insert-Tableau-Link-Here)**
+  **[Tableau Public Dashboard Link]([Insert-Tableau-Link-Here](https://public.tableau.com/views/department-salaryhike/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 - **Sample Screenshot**:
-  ![Tableau Screenshot](path/to/tableau-dashboard.png)
+  ![Tableau Screenshot](.png)
 
 ---
 
