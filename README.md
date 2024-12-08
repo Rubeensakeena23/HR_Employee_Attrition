@@ -46,9 +46,9 @@ This project aims to identify key factors driving employee attrition using an HR
 ### Tableau Dashboard
 - **Interactive Dashboard**:
   Explore the dashboard to view department-wise attrition, salary hike trends, and satisfaction scores.  
-  **[Tableau Public Dashboard Link]([Insert-Tableau-Link-Here](https://public.tableau.com/views/department-salaryhike/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+  **[Tableau Public Dashboard Link](https://public.tableau.com/views/department-salaryhike/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 - **Sample Screenshot**:
-  ![Tableau Screenshot](.png)
+  ![Tableau Screenshot](Tableau%20Dashboard.png)
 
 ---
 
