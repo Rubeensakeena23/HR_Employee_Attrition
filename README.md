@@ -39,7 +39,7 @@ This project aims to identify key factors driving employee attrition using an HR
 
 ### R Visualizations
 - **Attrition by Department**:
-  ![Attrition by Department](path/to/r-visualization1.png)
+  ![Attrition by Department](R Graphs/Department_attrition_in_R.png)
 - **Impact of Overtime**:
   ![Overtime Impact](path/to/r-visualization2.png)
 
